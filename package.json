@@ -1,0 +1,22 @@
+{
+  "name": "clinicas",
+  "version": "1.0.0",
+  "description": "Gestion de cinicas dentales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicent Ribera Condomina",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "fs": "0.0.1-security",
+    "gentelella": "^1.4.0",
+    "moment": "^2.19.1",
+    "mysql": "^2.14.1",
+    "router": "^1.3.2",
+    "serve-index": "^1.9.1"
+  }
+}
